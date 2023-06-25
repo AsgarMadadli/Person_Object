@@ -23,7 +23,7 @@ namespace ConsoleApp1
 
         public override string ToString()
         {
-            return $"Name{Name}, Surname {SurName}, Age: {Age}, Height: {Height}, Weight: {Weight}";
+            return $"Name {Name}, Surname {SurName}, Age: {Age}, Height: {Height}, Weight: {Weight}";
         }
     }
 
